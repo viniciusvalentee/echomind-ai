@@ -1,0 +1,13 @@
+# Arquivos de Ambiente
+.env
+
+# Dependências do Node.js
+node_modules
+
+# Ambiente virtual do Python
+.venv
+venv
+__pycache__/
+
+# Arquivos de sistema
+.DS_Store
